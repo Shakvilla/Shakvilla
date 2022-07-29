@@ -11,6 +11,10 @@ I'm a highly motivated individual who believes in learning new things and solvin
 * 🧠  I'm learning Microservices Architecture
 * 🤝  I'm open to collaborating on Javascript/Typescript Projects
 
+<a href="https://www.twitter.com/ShekurAbdullah" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/ShekurAbdullah?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"
+/></a><a href="https://www.github.com/Shakvilla" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Shakvilla?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
 ### Skills
 
 <p align="left">
@@ -48,8 +52,17 @@ I'm a highly motivated individual who believes in learning new things and solvin
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Shakvilla"><img src="https://github-readme-stats.vercel.app/api?username=Shakvilla&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="Shakvilla's GitHub stats" /></a>
+<a href="http://www.github.com/Shakvilla"><img src="https://github-readme-stats.vercel.app/api?username=Shakvilla&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="Shakvilla's GitHub stats" /></a>
 
 <a href="http://www.github.com/Shakvilla"><img src="https://activity-graph.herokuapp.com/graph?username=Shakvilla&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/Shakvilla" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shakvilla&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Shakvilla" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shakvilla&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/Shakvilla/FullStackJSDen" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Shakvilla&repo=FullStackJSDen&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/Shakvilla/my-react-boilerplate" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Shakvilla&repo=my-react-boilerplate&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/Shakvilla/nasa-project" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Shakvilla&repo=nasa-project&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/Shakvilla/zee-collection" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Shakvilla&repo=zee-collection&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a></div>
+
